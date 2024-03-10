@@ -1,27 +1,18 @@
-# MyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.5.
+### Pokemon API Project
+ - This project was created with the Pokemon API.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### Navigate Forward and Backward in the Pokemon List
+ - Implemented functionality to navigate forward to view the next list of Pokemon.
+ - Implemented functionality to navigate backward to return to the previous list of Pokemon.
+### Pokemon Search
+ - Created search functionality to find a Pokemon based on its name.
+ - Updated the API call with the entered variable to display details of the searched Pokemon.
+### Display Pokemon Details
+ - Added functionality to display specific details for each Pokemon.
+ - Used the URL variable to retrieve detailed data for the searched Pokemon.
+### Examples of Pokemon Details
+ - Displayed some specific data for Pokemon (such as type, height, weight, etc.).
+### How to Use the Project
+1. Clone this repository locally: git clone https://github.com/danutbradescu/pokemon-api-project.git
+2. Run the project locally using a development server or open index.html in a browser.
