@@ -14,5 +14,5 @@
 ### Examples of Pokemon Details
  - Displayed some specific data for Pokemon (such as type, height, weight, etc.).
 ### How to Use the Project
-1. Clone this repository locally: git clone https://github.com/danutbradescu/pokemon-api-project.git
+1. Clone this repository locally: git clone https://github.com/danutbradescu/Angular-API.git
 2. Run the project locally using a development server or open index.html in a browser.
